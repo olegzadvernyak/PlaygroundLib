@@ -1,0 +1,3 @@
+include ':pglib'
+include ':app'
+rootProject.name = "PlaygroundLib"
