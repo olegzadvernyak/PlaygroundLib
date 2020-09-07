@@ -8,4 +8,6 @@ interface Dummy {
 
     fun foo2()
 
+    fun bar2()
+
 }
